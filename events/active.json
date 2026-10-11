@@ -1,0 +1,59 @@
+{
+  "slug": "popular-events-management-and-caterers-kollam",
+  "name": "Popular Events Management and Caterers",
+  "shortName": "Popular",
+  "descriptor": "Catering & Events",
+  "address": "TR/44/1431, near Seemas center, Kadapakkada, Kollam, Keralam 691008",
+  "area": "Kadapakkada",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691008",
+  "geo": {
+    "lat": 8.8926756,
+    "lng": 76.6037398
+  },
+  "mapsLink": "https://maps.google.com/?cid=5739471576879938228",
+  "phone": "+91 95260 41701",
+  "whatsapp": "919526041701",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.8,
+  "reviewCount": 970,
+  "reviews": [
+    {
+      "name": "Muhammed Rafi",
+      "rating": 5,
+      "quote": "Excellent event management service! The team at Popular Event Management is professional, creative, and well-organized. They handle everything from stage decoration and catering to photography and videography with great attention to detail. The staff is friendly, responsive, and makes sure everything runs smoothly."
+    },
+    {
+      "name": "AKSHAY KRISHNA",
+      "rating": 5,
+      "quote": "Amazing experience with the team!Popular Event Management handled our wedding reception perfectly and made everything look beautiful and well-organized. Truly grateful for their effort. MC was fantastic and kept the energy alive throughout the event."
+    },
+    {
+      "name": "Arya S Boban",
+      "rating": 5,
+      "quote": "We had the pleasure of having both our wedding and our baby’s baptism beautifully organized by Popular Event Management, and we couldn’t be happier with their service! ❤️ From the planning and arrangements to the execution of both events, everything was handled with great care, professionalism, and attention to detail."
+    },
+    {
+      "name": "Aswathy Rudra",
+      "rating": 5,
+      "quote": "We would like to extend our heartfelt appreciation for the exceptional catering services provided during our wedding by Popular and Cateres The delicious food and seamless service exceeded our expectations. Your team’s professionalism and attention to detail made our special day truly memorable .Thankyou to Mr .Vinod and his team"
+    },
+    {
+      "name": "Sree Family",
+      "rating": 5,
+      "quote": "We hired Popular Event Management for my sister’s wedding, and they did an incredible job. The stage decoration was elegant and provided a beautiful, traditional atmosphere for the ceremony. A major highlight was the Sadya—it was authentic, delicious, and all our guests truly enjoyed it."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://popular-events-management-and-cater.vercel.app"
+}
